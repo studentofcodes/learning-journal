@@ -10,7 +10,7 @@ Relearning software engineering: not just writing code, but understanding how it
 ## Entry Index
 | # | Title | Language(s) | Date | Link |
 |---|-------|-------------|------|------|
-| 001 | [SQL] Extracting & Deduplicating Regex Matches in Spark SQL | SQL | 2026-10-27 | [Open](sql/001-regex-extract-dedupe-spark-sql.md) |
+| 001 | [SQL] Extracting & Deduplicating Regex Matches in Spark SQL | SQL | 2026-10-27 | [Open]([sql/001-regex-extract-dedupe-spark-sql.md](https://github.com/studentofcodes/learning-journal/blob/main/sql001-regex-extract-dedupe-spark-sql.md)) |
 
 ## Roadmap
 - [ ] 1. Setup & how Python runs code
