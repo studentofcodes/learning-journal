@@ -1,2 +1,2 @@
 # learning-journal
-Entry log of programming languages that I have studied
+Relearning software engineering: not just writing code, but understanding how it runs, finding bugs, and fixing them.
